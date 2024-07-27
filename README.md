@@ -2,6 +2,8 @@
 
 **Audio-store** is a modern e-commerce website designed for buying and selling audio equipment. Built with Express.js, PostgreSQL, React and Tailwind CSS, this website provides a seamless and responsive online shopping experience.
 
+![gif](https://github.com/user-attachments/assets/949aa565-b3da-4350-9c8d-0a91cf3d587a)
+
 ## Features
 
 - **E-commerce Platform:** Users can browse and purchase audio equipment.
