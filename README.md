@@ -13,10 +13,10 @@
 
 ## Technologies Used
 
-- **Express.js:**
-- **PostgreSQL:** 
-- **React:**
-- **Vite:** 
-- **Tailwind CSS:** 
+- **Express.js**
+- **PostgreSQL** 
+- **React**
+- **Vite** 
+- **Tailwind CSS** 
 
 
